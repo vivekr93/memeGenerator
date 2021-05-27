@@ -1,0 +1,10 @@
+body {
+    background-color: cadetblue;
+    color: white;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: rgb(0, 0, 139) 0px 0px 5px, rgb(0, 0, 139) 0px 0px 5px, rgb(0, 0, 139) 0px 0px 5px;;
+}
+
