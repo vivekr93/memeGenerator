@@ -6,7 +6,7 @@ const form = document.querySelector('#addmeme')
 let memelist = document.querySelectorAll('li');
 
 function createMeme (img, upper, lower){;
-    let newLi = document.createElement('li');
+    let newLi = document.createElement("div");
     document.body.append(newLi);
 
     let newCanvas = document.createElement("CANVAS");
